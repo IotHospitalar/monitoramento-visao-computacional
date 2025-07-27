@@ -5,7 +5,7 @@
 Este projeto implementa um sistema de **detecção de quedas** em vídeos, utilizando:
 
 * **YOLO** (v11) para detecção de pessoas
-* **Deep SORT** para rastreamento de múltiplos objetos
+* **Deep SORT** para rastreamento de múltiplas pessoas
 * **InsightFace** (MXNet) para reconhecimento facial
 * **EmotiEffLib** para reconhecimento de expressões
 
