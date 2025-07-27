@@ -100,7 +100,7 @@ Basta digitar `1`, `2` ou `3` conforme desejado e seguir as instruções na tela
 
 ## 🔬 Suporte a GPU
 
-**YOLOv8 e InsightFace suportam GPU, mas dependem do seu ambiente.**
+**YOLOv11 e InsightFace suportam GPU, mas dependem do seu ambiente.**
 
 ### Como garantir o uso de GPU:
 
@@ -133,6 +133,3 @@ Instale o pacote `onnxruntime-gpu` no lugar de `onnxruntime`.
 
 * Ajuste os paths dentro dos scripts se a estrutura de pastas for alterada.
 * Para melhor desempenho em treinamento e inferência, instale drivers e suporte CUDA adequados.
-* Logs de treinamento e arquivos gerados ficarão dentro da pasta `trainer/`.
-
----
