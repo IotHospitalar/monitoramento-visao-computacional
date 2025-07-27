@@ -1,0 +1,17 @@
+opencv-python
+numpy
+mediapipe
+insightface
+torch
+torchvision
+torchaudio
+ultralytics
+scikit-learn
+tensorflow
+keras
+pillow
+matplotlib
+onnxruntime-gpu
+hsemotion-onnx
+mxnet-cu121
+
